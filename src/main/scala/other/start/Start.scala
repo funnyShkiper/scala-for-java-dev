@@ -1,4 +1,4 @@
-package start
+package other.start
 
 object Start {
   def main(args: Array[String]): Unit = {

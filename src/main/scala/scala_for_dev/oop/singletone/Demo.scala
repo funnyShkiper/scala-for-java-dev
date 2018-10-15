@@ -6,7 +6,7 @@ object O
 
 object Demo extends App {
 
-  val x: T = null
+ /* val x: T = null
   val y: C = null
   val z: O = null
   val z: O.type = null
@@ -22,7 +22,7 @@ object Demo extends App {
     case _: O => "O"
     case _: O.type => "O"
   }
-
+*/
   override def main(args: Array[String]): Unit = {
 
   }

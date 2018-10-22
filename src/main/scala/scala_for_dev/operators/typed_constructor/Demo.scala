@@ -10,7 +10,7 @@ object Demo extends App {
 
   val y2: List[Int ++ String] = ???
 
-  class X extends (Int ++ String)
+  // class X extends (Int ++ String)
 
   val f: Int ++ String => String ++ Int = ???
 

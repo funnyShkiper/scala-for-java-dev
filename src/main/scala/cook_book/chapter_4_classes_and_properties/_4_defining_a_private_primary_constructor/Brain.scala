@@ -14,3 +14,5 @@ object Start extends App {
   val brain = Brain.getInstance
   println(brain)
 }
+
+

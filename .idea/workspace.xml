@@ -2,11 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd62c8e0-6544-499b-8e05-3a5ab2c5ab4b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/scala-for-java-dev-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/scala-for-java-dev-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/scala-for-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/scala-for-java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cook_book/chapter_4_classes_and_properties/_4_defining_a_private_primary_constructor/Brain.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cook_book/chapter_4_classes_and_properties/_4_defining_a_private_primary_constructor/Brain.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/updateSbtClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,6 +38,20 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -99,23 +134,53 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1283351322">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="copy" value="1" />
+          <entry key="gitignore" value="3" />
+          <entry key="properties" value="1" />
+          <entry key="sc" value="25" />
+          <entry key="scala" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Properties" value="1" />
+          <entry key="Scala" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gitignore" value="9" />
+          <entry key="sc" value="2515" />
+          <entry key="scala" value="1208" />
+          <entry key="txt" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="23" />
+          <entry key="Scala" value="3723" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_3_control_structures/_5_implementing_break_and_continue/Demo.sc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="936">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_4_classes_and_properties/_4_defining_a_private_primary_constructor/Brain.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            <state relative-caret-position="324">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -136,19 +201,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/scala/part_4/ReturningFunctions.sc" />
-        <option value="$PROJECT_DIR$/src/main/scala/part_4/StoringFunctions.sc" />
-        <option value="$PROJECT_DIR$/src/main/scala/part_4/FunctionTypes.sc" />
-        <option value="$PROJECT_DIR$/src/main/scala/part_11/Inheritance.sc" />
-        <option value="$PROJECT_DIR$/src/main/scala/start/Start.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/arrays/Demo_1.sc" />
-        <option value="$PROJECT_DIR$/src/main/scala/arrays/ConversionArray.sc" />
-        <option value="$PROJECT_DIR$/src/main/scala/traits/TraitExample.sc" />
-        <option value="$PROJECT_DIR$/src/main/scala/patterMatching/Demo.sc" />
-        <option value="$PROJECT_DIR$/src/main/scala/loops/Demo.sc" />
-        <option value="$PROJECT_DIR$/src/main/scala/exceptions/Demo.sc" />
-        <option value="$PROJECT_DIR$/src/main/scala/scala_for_dev/set_get/Person.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/scala_for_dev/set_get/PersonBean.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/scala_for_dev/set_get/PersonBeanProperty.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/scala_for_dev/set_get/PersonBeanPropertyWithConstructor.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/scala_for_dev/set_get/Demo.scala" />
@@ -162,7 +214,6 @@
         <option value="$PROJECT_DIR$/src/main/scala/scala_for_dev/oop/companion_object/Demo.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/scala_for_dev/oop/singletone/Demo.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/scala_for_dev/operators/infix/Demo.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/scala_for_dev/operators/typed_constructor/Demo.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/cook_book/chapter_1/_1_testing_string_equality_/Demo.sc" />
         <option value="$PROJECT_DIR$/src/main/scala/cook_book/chapter_1/_2_creating_multiline_strings/Demo.sc" />
         <option value="$PROJECT_DIR$/src/main/scala/cook_book/chapter_1/_3_spliting_strings/Demo.sc" />
@@ -186,7 +237,21 @@
         <option value="$PROJECT_DIR$/src/main/scala/cook_book/chapter_3_control_structures/_3_using_for_loop_with_embedded_if_statements/Demo.sc" />
         <option value="$PROJECT_DIR$/src/main/scala/cook_book/chapter_3_control_structures/_4_creating_a_for_loop_comprehension/Demo.sc" />
         <option value="$PROJECT_DIR$/src/main/scala/cook_book/chapter_3_control_structures/_5_implementing_break_and_continue/Demo.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/cook_book/chapter_3_control_structures/_12_using_case_classes_in_match_expressions/Demo.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/cook_book/chapter_3_control_structures/_13_adding_if_expressions_to_case_statements/Demo.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/cook_book/chapter_3_control_structures/_14_using_a_match_expression_insted_instanceOf/Demo.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/cook_book/chapter_3_control_structures/_15_working_with_list_in_a_match_expression/Demo.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/cook_book/chapter_3_control_structures/_16_matching_one_or_more_exceptions_with_try_catch/Demo.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/cook_book/chapter_3_control_structures/_17_declaring_a_variable_before_using_it_in_a_try_catch/CopyBytes.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/scala_for_dev/operators/typed_constructor/Demo.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/cook_book/chapter_4_classes_and_properties/_1_creating_a_primary_constructor/Demo.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/cook_book/chapter_4_classes_and_properties/_1_creating_a_primary_constructor/Demo.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/cook_book/chapter_4_classes_and_properties/_2_controling_the_visibility_of_constructors_fields/Demo.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/cook_book/chapter_4_classes_and_properties/_3_defining_auxiliary_constructors/Demo.sc" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/scala/cook_book/chapter_4_classes_and_properties/_3_defining_auxiliary_constructors/Pizza.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/cook_book/chapter_4_classes_and_properties/_3_defining_auxiliary_constructors/Person.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/cook_book/chapter_4_classes_and_properties/_4_defining_a_private_primary_constructor/Brain.scala" />
       </list>
     </option>
   </component>
@@ -197,10 +262,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-20" />
-    <option name="y" value="-20" />
-    <option name="width" value="3875" />
-    <option name="height" value="2095" />
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -250,12 +314,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="cook_book" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_3_control_structures" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scala-for-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scala-for-java-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_4_classes_and_properties" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -268,8 +327,8 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;jar://C:/Users/Maxim/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.7-sources.jar!/scala/package.scala" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540117685505" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540290429917" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../admin-dashboard/admin-dashboard-jpa" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -289,39 +348,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo (4)">
-    <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="scala_for_dev.oop.constructor_primary.Demo" />
+  <component name="RunManager" selected="Application.Start (1)">
+    <configuration name="CopyBytes" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="cook_book.chapter_3_control_structures._17_declaring_a_variable_before_using_it_in_a_try_catch.CopyBytes" />
       <module name="scala-for-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scala_for_dev.oop.constructor_primary.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo (2)" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="scala_for_dev.oop.static_utils.Demo" />
-      <module name="scala-for-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="scala_for_dev.oop.static_utils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo (3)" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="scala_for_dev.oop.companion_object.Demo" />
-      <module name="scala-for-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="scala_for_dev.oop.companion_object.*" />
+          <option name="PATTERN" value="cook_book.chapter_3_control_structures._17_declaring_a_variable_before_using_it_in_a_try_catch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -343,11 +376,37 @@
       </method>
     </configuration>
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="scala_for_dev.oop.set_get.Demo" />
+      <option name="MAIN_CLASS_NAME" value="cook_book.chapter_4_classes_and_properties._1_creating_a_primary_constructor.Demo" />
       <module name="scala-for-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scala_for_dev.oop.set_get.*" />
+          <option name="PATTERN" value="cook_book.chapter_4_classes_and_properties._1_creating_a_primary_constructor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Start (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="cook_book.chapter_4_classes_and_properties._4_defining_a_private_primary_constructor.Start" />
+      <module name="scala-for-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cook_book.chapter_4_classes_and_properties._4_defining_a_private_primary_constructor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="cook_book.chapter_4_classes_and_properties._3_defining_auxiliary_constructors.Start" />
+      <module name="scala-for-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cook_book.chapter_4_classes_and_properties._3_defining_auxiliary_constructors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -356,19 +415,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo" />
-      <item itemvalue="Application.Demo (1)" />
-      <item itemvalue="Application.Demo (2)" />
-      <item itemvalue="Application.Demo (3)" />
       <item itemvalue="Application.Demo (4)" />
+      <item itemvalue="Application.CopyBytes" />
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.Start" />
+      <item itemvalue="Application.Start (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo (4)" />
-        <item itemvalue="Application.Demo (3)" />
-        <item itemvalue="Application.Demo (2)" />
-        <item itemvalue="Application.Demo (1)" />
+        <item itemvalue="Application.Start (1)" />
+        <item itemvalue="Application.Start" />
         <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.CopyBytes" />
+        <item itemvalue="Application.Demo (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -385,11 +444,11 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="scala-for-java-dev [file:/home/maxim/Документы/projects/scala/scala-for-java-dev/]" />
+                <option name="name" value="scala-for-java-dev [file:/C:/Users/MIvashenko/Desktop/scala/scala-for-java-dev/]" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="scala-for-java-dev-build [file:/home/maxim/Документы/projects/scala/scala-for-java-dev/]" />
+                <option name="name" value="scala-for-java-dev-build [file:/C:/Users/MIvashenko/Desktop/scala/scala-for-java-dev/]" />
                 <option name="path" value="$PROJECT_DIR$/project" />
               </ExternalProjectPojo>
             </list>
@@ -423,17 +482,42 @@
       <workItem from="1540041258965" duration="2696000" />
       <workItem from="1540107742812" duration="7419000" />
       <workItem from="1540117703176" duration="31000" />
+      <workItem from="1540198702441" duration="9911000" />
+      <workItem from="1540278551181" duration="14000" />
+      <workItem from="1540282519853" duration="4176000" />
     </task>
+    <task id="LOCAL-00001" summary="Scala CookBook">
+      <created>1540217638229</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540217638229</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Scala CookBook">
+      <created>1540219422591</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1540219422591</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Scala CookBook">
+      <created>1540290424688</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1540290424688</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59516000" />
+    <option name="totallyTimeSpent" value="76821000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="134" y="35" width="3706" height="2125" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26533997" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27292112" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -442,7 +526,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -450,9 +534,9 @@
       <window_info anchor="bottom" id="Build" order="7" weight="0.3290253" />
       <window_info anchor="bottom" id="SBT Console" order="8" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3284868" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32827735" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3290253" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32827735" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info anchor="bottom" id="SBT Execute" order="15" side_tool="true" />
@@ -464,7 +548,7 @@
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" x="0" y="0" width="337" height="637" id="Documentation" order="6" side_tool="true" weight="0.32997987" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32995737" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="right" id="Theme Preview" order="10" />
     </layout>
@@ -475,133 +559,15 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Scala CookBook" />
+    <option name="LAST_COMMIT_MESSAGE" value="Scala CookBook" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/other/arrays/Demo_1.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/other/patterMatching/Demo.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/other/traits/TraitExample.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.7-sources.jar!/scala/util/control/Breaks.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/other/loops/Demo.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scala_for_dev/oop/set_get/Person.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="18" column="2" lean-forward="true" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scala_for_dev/oop/set_get/PersonBean.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="60" lean-forward="true" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.7-sources.jar!/scala/beans/BeanProperty.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scala_for_dev/oop/set_get/PersonBeanProperty.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scala_for_dev/oop/set_get/PersonBeanPropertyWithConstructor.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scala_for_dev/oop/set_get/Demo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scala_for_dev/oop/constructor_primary/package.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scala_for_dev/oop/constructor_primary/Person.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scala_for_dev/oop/constructor_primary/Demo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scala_for_dev/oop/auxiliary_constructor/Demo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scala_for_dev/oop/static_utils/Demo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scala_for_dev/oop/auxiliary_constructor/Person.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scala_for_dev/oop/companion_object/Demo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scala_for_dev/oop/singletone/Demo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/scala_for_dev/operators/infix/Demo.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
           <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scala_for_dev/operators/typed_constructor/Demo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -648,13 +614,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_1_strings/_6_finding_patterns_in_string/Demo.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="4" column="64" lean-forward="true" selection-start-line="4" selection-start-column="64" selection-end-line="4" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_1_strings/_8_extracting_parts_of_a_string_that_match_patterns/Demo.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -698,20 +657,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_2_numbers/package.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_2_numbers/_2_converting_between_numeric_types_casting/Demo.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_2_numbers/_3_replacement_for_plusplus_and_minesmines/Demo.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_2_numbers/_4_comparing_float_point_numbers/Demo.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -730,13 +675,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1332">
           <caret line="37" column="15" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_2_numbers/_6_generating_random_numbers/Demo.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
@@ -782,13 +720,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_3_control_structures/_4_creating_a_for_loop_comprehension/Demo.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_3_control_structures/_5_implementing_break_and_continue/Demo.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="936">
@@ -796,10 +727,163 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_3_control_structures/_13_adding_if_expressions_to_case_statements/Demo.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_3_control_structures/_15_working_with_list_in_a_match_expression/Demo.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_3_control_structures/package.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scala_for_dev/operators/typed_constructor/Demo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_3_control_structures/_17_declaring_a_variable_before_using_it_in_a_try_catch/CopyBytes.scala.copy">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_3_control_structures/_17_declaring_a_variable_before_using_it_in_a_try_catch/CopyBytes.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_4_classes_and_properties/_1_creating_a_primary_constructor/Demo.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="1" lean-forward="true" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_4_classes_and_properties/_1_creating_a_primary_constructor/Demo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_1_strings/_6_finding_patterns_in_string/Demo.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="64" lean-forward="true" selection-start-line="4" selection-start-column="64" selection-end-line="4" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_2_numbers/_3_replacement_for_plusplus_and_minesmines/Demo.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_2_numbers/_2_converting_between_numeric_types_casting/Demo.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_2_numbers/_6_generating_random_numbers/Demo.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_3_control_structures/_12_using_case_classes_in_match_expressions/Demo.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_3_control_structures/_11_using_pattern_matching_in_match_expression/Demo.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="13" column="55" lean-forward="true" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_3_control_structures/_14_using_a_match_expression_insted_instanceOf/Demo.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_3_control_structures/_6_using_the_if_construct_like_ternary_operator/Demo.sc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_3_control_structures/_7_using_match_expression_like_a_switch_statement/Demo.sc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_3_control_structures/_4_creating_a_for_loop_comprehension/Demo.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_3_control_structures/_16_matching_one_or_more_exceptions_with_try_catch/Demo.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/build.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_4_classes_and_properties/_2_controling_the_visibility_of_constructors_fields/Demo.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        <state relative-caret-position="36">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_4_classes_and_properties/_3_defining_auxiliary_constructors/Demo.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_4_classes_and_properties/_3_defining_auxiliary_constructors/Pizza.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_4_classes_and_properties/_3_defining_auxiliary_constructors/Person.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cook_book/chapter_4_classes_and_properties/_4_defining_a_private_primary_constructor/Brain.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>

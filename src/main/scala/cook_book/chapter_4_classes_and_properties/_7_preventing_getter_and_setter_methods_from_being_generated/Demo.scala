@@ -20,8 +20,6 @@ object Demo extends App {
 
 }
 
-
-
 class Stock {
 
   // getter and setter method are generated

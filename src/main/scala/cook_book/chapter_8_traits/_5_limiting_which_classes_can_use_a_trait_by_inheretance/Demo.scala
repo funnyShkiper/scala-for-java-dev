@@ -13,6 +13,6 @@ class Starship extends StarfleetComponent with StarfleetWarpCore
 class RomulanStuff
 
 // won't compile
-class Warbird extends RomulanStuff with StarfleetWarpCore
+// class Warbird extends RomulanStuff with StarfleetWarpCore
 
 
